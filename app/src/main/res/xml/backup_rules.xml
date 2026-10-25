@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 and lower: back up the library and covers, nothing else (no temp, staging or damaged files). -->
+<full-backup-content>
+    <include domain="file" path="data.json" />
+    <include domain="file" path="data.json.bak" />
+    <include domain="file" path="covers/" />
+</full-backup-content>

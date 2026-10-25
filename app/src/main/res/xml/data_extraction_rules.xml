@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12+: same rules for Google cloud backup and for device-to-device transfer. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="file" path="data.json" />
+        <include domain="file" path="data.json.bak" />
+        <include domain="file" path="covers/" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="file" path="data.json" />
+        <include domain="file" path="data.json.bak" />
+        <include domain="file" path="covers/" />
+    </device-transfer>
+</data-extraction-rules>

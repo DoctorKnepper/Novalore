@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- One-colour version for themed icons (Android 13+): the same hand of cards with gaps between them, and the star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27.29,63.09 L26.75,66.16 L37.99,82.21 L41.05,82.75 L44.13,80.60 L40.59,78.75 L34.38,59.04 L35.13,57.60 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37.22,56.40 L35.78,59.16 L41.67,77.85 L44.43,79.29 L48.02,78.16 L45.20,75.34 L45.20,54.66 L46.34,53.52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48.70,53.00 L46.50,55.20 L46.50,74.80 L48.70,77.00 L52.46,77.00 L50.62,73.46 L56.83,53.75 L58.26,53.00 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60.67,53.21 L57.91,54.65 L52.02,73.34 L53.46,76.10 L57.04,77.23 L56.35,73.31 L68.20,56.36 L69.78,56.09 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72.03,57.01 L80.71,63.09 L81.25,66.16 L70.01,82.21 L66.95,82.75 L58.26,76.67 L57.72,73.61 L68.96,57.55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54.00,24.50 L57.04,31.81 L64.94,32.45 L58.92,37.60 L60.76,45.30 L54.00,41.17 L47.24,45.30 L49.08,37.60 L43.06,32.45 L50.96,31.81 Z" />
+</vector>
