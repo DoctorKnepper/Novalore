@@ -28,7 +28,7 @@ class LookupOutcome(val results: List<LookupCandidate>, val failed: Boolean)
 private fun enc(s: String): String = URLEncoder.encode(s, "UTF-8")
 
 private const val MAX_DOWNLOAD_BYTES = 15L * 1024 * 1024
-private const val USER_AGENT = "Novalore/3.0 (Android; personal review journal)"
+private const val USER_AGENT = "Novalore/1.0 (Android; personal review journal)"
 
 /** POSTs a JSON body (for AniList's GraphQL API). Returns the response text, or null on any failure. */
 fun httpPostJson(url: String, body: String, timeoutMs: Int = 15000): String? {

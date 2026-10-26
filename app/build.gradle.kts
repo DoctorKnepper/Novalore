@@ -22,8 +22,8 @@ android {
         // Google Play requires API 36 for new apps and updates from Aug 31, 2026. See README-CHANGES.md
         // for the upgrade steps (needs a newer Android Gradle Plugin, best done with Studio's AGP Upgrade Assistant).
         targetSdk = 35
-        versionCode = 15
-        versionName = "3.1"
+        versionCode = 16
+        versionName = "1.0"
     }
 
     signingConfigs {

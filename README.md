@@ -42,7 +42,8 @@
 ## Install
 
 - **Google Play:** coming soon.
-- **Test build:** every push builds a debug APK. Open the latest successful run under [Actions](https://github.com/DoctorKnepper/Novalore/actions/workflows/build.yml), download **novalore-debug-apk**, unzip it and open the `.apk` on your phone (Android 8.0 or newer; allow installs from that source when asked).
+- **Download:** get the APK from the [latest release](https://github.com/DoctorKnepper/Novalore/releases/latest) and open it on your phone (Android 8.0 or newer; allow installs from that source when asked).
+- **Latest test build:** every push to `main` builds a debug APK. Open the latest successful run under [Actions](https://github.com/DoctorKnepper/Novalore/actions/workflows/build.yml) and download **novalore-debug-apk**. Each of these is signed with a throwaway key, so to switch between them you may need to uninstall first (back up your library before you do).
 
 Coming from **Storybox** (the app's earlier name)? Novalore installs alongside it. In Storybox use *Export backup*, then in Novalore choose *Restore a Novalore or Storybox backup*.
 
