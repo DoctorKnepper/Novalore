@@ -83,3 +83,7 @@ Novalore keeps everything on your device. See the [privacy policy](PRIVACY.md).
 ## Changes
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## License
+
+Novalore is released under the [MIT License](LICENSE). The name "Novalore" and its icon identify this app; please give forks their own name and icon.
